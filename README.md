@@ -158,10 +158,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🔗 Connect
 
-- **LinkedIn**: [Your LinkedIn]
-- **Portfolio**: [Your Portfolio]
-- **Email**: your.email@example.com
+- **LinkedIn**: [Abdul Samad Sani]
+
+- **Email**: sammedsani@gmail.com
 
 ---
 
 ⭐ **Star this repository if you find it helpful!**
+
